@@ -458,8 +458,8 @@ int cam_context_handle_stop_dev(struct cam_context *ctx,
  * @cmd:          Dump device command payload
  *
  */
-int cam_context_handle_dump_dev(struct cam_context *ctx,
-	struct cam_dump_req_cmd *cmd);
+//int cam_context_handle_dump_dev(struct cam_context *ctx,
+//	struct cam_dump_req_cmd *cmd);
 
 /**
  * cam_context_deinit()
